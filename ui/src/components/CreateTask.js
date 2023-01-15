@@ -43,7 +43,7 @@ export default function CreateTask(props) {
 							<div className="form-group col-md-12">
 								<label htmlFor="exampleInputEmail1">Status:</label>
 								<select className="form-control" {...register("status")}>
-									<option>To Be Donev</option>
+									<option>To Be Done</option>
 									<option>In Progress</option>
 									<option>Completedled</option>
 								</select>
