@@ -45,7 +45,7 @@ export default function CreateTask(props) {
 								<select className="form-control" {...register("status")}>
 									<option>To Be Donev</option>
 									<option>In Progress</option>
-									<option>Completed</option>
+									<option>Completedle</option>
 								</select>
 							</div>
 						</div>
